@@ -168,6 +168,3 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
-landing-page/
-├── index.html
-├── style.css
